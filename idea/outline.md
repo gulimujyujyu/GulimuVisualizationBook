@@ -12,6 +12,7 @@ Outline
     * Aesthetics.
       * Tufte's opinion. *GulimuVision Issue 3*
   * Elements
+	* Font
     * Color
       * Theory. *GulimuVision Issue 4*
         * Model. Additive, subtractive.
